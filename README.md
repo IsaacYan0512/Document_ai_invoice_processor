@@ -126,7 +126,7 @@ Before you begin, make sure you have completed the following steps:
 3. install requirements
 
    ```bash
-      pip install google-cloud-documentai requests
+      python invoice_processor.py
    ```
 
 2. requirements.txt
