@@ -1,4 +1,4 @@
-# Document AI Processor
+# Document AI Invoice Processor
 
 The DocumentAIProcessor script is designed to automatically process PDF documents using Google Cloud's Document AI service. It supports different processing configurations for expense reports and invoices by dynamically setting the processor based on the document type.
 
